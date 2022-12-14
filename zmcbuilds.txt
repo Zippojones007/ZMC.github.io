@@ -14,7 +14,7 @@ description="ZMC Builds. Please select from the list below."
 
 name="[COLOR yellow][B]ZMC NEXUS BUILD v2[/COLOR][/B]"
 version="2"
-url="https://archive.org/download/zmcnexus2.0/zmcnexus2.0.zip"
+url="https://www.dropbox.com/s/sjasd92hpwrsa5c/zmcnexus2.0.zip?dl=0"
 minor="http://"
 gui="http://"
 kodi="20.0"
