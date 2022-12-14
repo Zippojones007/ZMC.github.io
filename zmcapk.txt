@@ -18,7 +18,7 @@ name="Mx Player Pro v1.51.8"
 section="no"
 url="https://archive.org/download/mxplayer-pro_v1.51.8_armeabi-v7a/mxplayer-pro_v1.51.8_armeabi-v7a.apk"
 icon="https://archive.org/download/mx-player-pro-logo-300x240/mx-player-pro-logo-300x240.jpg"
-fanart="https://archive.org/download/es-file-explorer-logo/ES_File_Explorer-logo.png"
+fanart="https://archive.org/download/mx-player-pro-logo-300x240/mx-player-pro-logo-300x240.jpg"
 adult="no"
 description="Video and Media Player."
 
