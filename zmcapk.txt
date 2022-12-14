@@ -1,0 +1,7 @@
+name="APKTIME APP"
+section="no"
+url="http://bit.ly/mbtvapktime"
+icon="https://archive.org/download/APKTime_201804/apktime.png"
+fanart="https://archive.org/download/APKTime_201804/apktime.png"
+adult="no"
+description="APKTIME APP FILELINKED APP for easy installation of apps."
