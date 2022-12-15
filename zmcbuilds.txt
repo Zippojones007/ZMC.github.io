@@ -1,6 +1,6 @@
 name="[COLOR yellow][B]ZMC BUILD 2.0[COLOR][/B]"
 version="2.0"
-url="https://archive.org/download/zmcnexus2.0/zmcnexus2.0.zip"
+url="https://archive.org/download/zmcnexus2/zmcnexus2.zip"
 minor="http://"
 gui="http://"
 kodi="20"
