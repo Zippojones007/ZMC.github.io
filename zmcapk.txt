@@ -70,6 +70,15 @@ fanart="https://archive.org/download/filmplus-app_202104/filmplus-app.png"
 adult="no"
 description="FilmPlus Free Movies and TV Shows."
 
+name="NovaTV v1.8.8b"
+section="no"
+url="https://www.novatvapk.com/nova.apk"
+icon="https://archive.org/download/nova-tv-logo_202007/nova-tv-logo.png"
+fanart="https://archive.org/download/nova-tv-logo_202007/nova-tv-logo.png"
+adult="no"
+description="NovaTV Free Movies and TV Shows."
+
+
 name="[COLOR yellow][B].........Live TV Apks.........[/COLOR][/B]"
 section="no"
 url="http://"
