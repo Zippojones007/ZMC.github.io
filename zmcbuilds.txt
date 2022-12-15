@@ -1,6 +1,6 @@
 name="[COLOR yellow][B].........ZMC NEXUS Build 2.0.........[/COLOR][/B]"
 version="2.0"
-url="https://www.dropbox.com/s/sjasd92hpwrsa5c/zmcnexus2.zip?dl=0x0"
+url="https://archive.org/download/zmcnexus2.0/zmcnexus2.0.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
