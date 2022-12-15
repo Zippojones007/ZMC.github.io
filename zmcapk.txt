@@ -110,3 +110,20 @@ icon="https://archive.org/download/swift-streamz-logo/Swift%20Streamz%20LOGO.jpg
 fanart="https://archive.org/download/swift-streamz-logo/Swift%20Streamz%20LOGO.jpg"
 adult="no"
 description="Live TV Channels from around the world."
+
+name="TVTap Pro v2.9 for Android"
+section="no"
+url="https://tvtap-pro.net/dl/v2.9.apk/"
+icon="https://archive.org/download/tvtap-logo-e1535221925412_202103/tvtap-logo-e1535221925412.jpg"
+fanart="https://archive.org/download/tvtap-logo-e1535221925412_202103/tvtap-logo-e1535221925412.jpg"
+adult="no"
+description="Live TV Channels from around the world."
+
+name="TVTap Firestick Pro v3.2"
+section="no"
+url="https://tvtap-pro.net/dl/v3.2.apk/"
+icon="https://archive.org/download/tvtap-logo-e1535221925412_202103/tvtap-logo-e1535221925412.jpg"
+fanart="https://archive.org/download/tvtap-logo-e1535221925412_202103/tvtap-logo-e1535221925412.jpg"
+adult="no"
+description="Live TV Channels from around the world."
+
