@@ -14,7 +14,7 @@ description="KODIMAN Builds. Please select from the list below."
 
 name="Nightmare Build"
 version="1.0"
-url="ttp://funstersplace.net/Builds/Nightmare.zip"
+url="http://funstersplace.net/Builds/Nightmare.zip"
 minor="http://"
 gui="http://"
 kodi="19.5"
