@@ -27,7 +27,7 @@ info="http://"
 description="ZMC Nexus Build v2.0 featuring a customized Amber Skin"
 
 name="ZMC NEXUS V3.1"
-version="3.0"
+version="3.1"
 url="https://archive.org/download/zmcnexus3.1/zmcnexus3.1.zip"
 minor="http://"
 gui="http://"
