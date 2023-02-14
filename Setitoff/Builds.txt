@@ -1,1 +1,63 @@
+name="[COLOR yellow][B].........Set.It.Off 666 Builds.........[/COLOR][/B]"
+version="20.0"
+url="http://"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="no"
+info="http://"
+description="Set.It.Off.666 Builds. Please select from the list below."
+
+name="LaughNowCryLater"
+version="0.0"
+url="https://archive.org/download/laugh-now-cry-later-update/LaughNow%20CryLater%20Update.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="https://archive.org/download/laugh-now-cry-later-update/Picsart_23-02-13_12-16-16-386.jpg"
+fanart="https://archive.org/download/laugh-now-cry-later-update/Picsart_23-02-13_12-16-16-386.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="LaughNowCryLater Build"
+
+name="LaughNowCryLater 2 Build"
+version="0.0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="https://"
+fanart="https://"
+preview="http://"
+adult="no"
+info="http://"
+description="LaughNowCryLater 2 Build (don't get it twisted. "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
