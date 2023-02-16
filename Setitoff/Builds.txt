@@ -26,20 +26,6 @@ adult="no"
 info="http://"
 description="LaughNowCryLater Build"
 
-name="LaughNowCryLater 2 Build"
-version="1.1"
-url="https://archive.org/download/laugh-now-cry-later-2/LaughNowCryLater2.zip"
-minor="http://"
-gui="http://"
-kodi="20.0"
-theme="http://"
-icon="https://archive.org/download/laugh-now-cry-later-2/Picsart_23-02-14_12-33-53-765.jpg"
-fanart="https://archive.org/download/laugh-now-cry-later-2/Picsart_23-02-14_12-33-53-765.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="LaughNowCryLater 2 Build (don't get it twisted. "
-
 name="CryLater(update 02/15/23"
 version="?.?"
 url="https://archive.org/download/cry-laterbuild/CryLaterbuild.zip"
@@ -53,3 +39,14 @@ preview="http://"
 adult="no"
 info="http://"
 description="CryLater Build"
+
+
+
+
+
+
+
+
+
+
+
