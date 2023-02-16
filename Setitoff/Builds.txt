@@ -40,24 +40,16 @@ adult="no"
 info="http://"
 description="LaughNowCryLater 2 Build (don't get it twisted. "
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+name="CryLater(update 02/15/23"
+version="?.?"
+url="https://archive.org/download/cry-laterbuild/CryLaterbuild.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="https://archive.org/download/cry-laterbuild/Picsart_23-02-15_20-11-24-236.jpg"
+fanart="https://archive.org/download/cry-laterbuild/Picsart_23-02-15_20-11-24-236.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="CryLater Build"
