@@ -1,5 +1,8 @@
 1
 |||
 [COLOR yellow][B][I]ZMC NEXUS WIZARD 2.0 [/COLOR]
-
+[COLOR red][B] Important Announcement [/COLOR]
+[COLOR yellow] Do to the latest update to the Aeon-Nox-SiLVO skin addon, some ZMC Builds may have been affected. 
+And you may have lost all background images. Not To Worry however because the rest of the builds still function.
+An update for these builds will be available soon.
 [COLOR yellow][B][I]Thank you for choosing Zippo's Media Center, Check out ZMC Nexus BUILD V3.1 Update. Changed LnTV widgets out for RBTV Available Now in our build menu. [/B][/I][/COLOR]
