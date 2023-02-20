@@ -70,7 +70,7 @@ description="Set.It.Off.666 Builds. Please Note: The following Builds are not me
 
 name="The LaughNow -xx1"
 version="1.0"
-url="https://archive.org/download/laugh-now-xx-1/LaughNow-XX1.zip"
+url="https://archive.org/download/laugh-now-xx-1-1/LaughNow-XX1%20%281%29.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
