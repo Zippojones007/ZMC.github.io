@@ -1,7 +1,0 @@
-name="APKTIME APP"
-section="yes"
-url="http://bit.ly/mbtvapktime"
-icon="https://archive.org/download/APKTime_201804/apktime.png"
-fanart="https://archive.org/download/APKTime_201804/apktime.png"
-adult="no"
-description="APKTIME APP for easy installation of apps."
