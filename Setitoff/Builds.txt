@@ -70,7 +70,7 @@ description="Set.It.Off.666 Builds."
 
 name="Visibe"
 version="1.0"
-url="http://"
+url="https://archive.org/download/Visble/Visble.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
