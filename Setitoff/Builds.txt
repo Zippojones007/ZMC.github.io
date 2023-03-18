@@ -111,7 +111,7 @@ info="http://"
 description="Set.It.Off.666 Builds. Please Note: The following Builds are not meant for Children. Adults Only!"
 
 name="The LaughNow -xx1"
-version="1.0"
+version="1.2"
 url="http://twistednutz.xyz/Wizard/Builds/LaughNowXXX.zip"
 minor="http://"
 gui="http://"
