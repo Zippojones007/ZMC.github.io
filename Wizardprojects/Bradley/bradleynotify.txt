@@ -1,0 +1,10 @@
+1
+|||
+[COLOR yellow][B][I]Bradley's Builds GUI WIZARD [/COLOR]
+
+[COLOR yellow][B][I]Thank you and welcome to Bradley's New Builds Wizard. [/COLOR]
+[COLOR yellow][B][I]Bradley's Builds Wizard has many tools for not only installing one of Bradley's great Kodi Setups,[/COLOR]
+[COLOR yellow][B][I]but with it's Easy-to-use Graphical User Interface, you'll find sections for general Maintenance,[/COLOR]
+[COLOR yellow][B][I]Backup and Restore, Speed Test, Startup cache Settings, and much much more.[/COLOR]
+
+[COLOR yellow][B][I]Enjoy![/COLOR]
