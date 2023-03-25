@@ -1,4 +1,4 @@
-name="[COLOR yellow][B].....Welcome to Bradley's Builds.....[/COLOR][/B]"
+name="[COLOR yellow][B]Welcome to Bradley's Builds[/COLOR][/B]"
 version="20.0"
 url="http://"
 minor="http://"
