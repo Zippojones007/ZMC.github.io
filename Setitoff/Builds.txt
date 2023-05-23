@@ -222,3 +222,19 @@ adult="no"
 info="http://"
 description="Set.It.Off.666 Builds."
 
+name="LaughNow-xx2"
+version="1.0"
+url="http://twistednutz.xyz/Wizard/Builds/LaughNowXX2.zip"
+minor="http://"
+gui="http://"
+kodi="20.0"
+theme="http://"
+icon="http://twistednutz.xyz/Wizard/Pics/LaughNowXX2.jpg"
+fanart="http://twistednutz.xyz/Wizard/Pics/LaughNowXX2.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="LaughNow-XX2"
+
+
+
