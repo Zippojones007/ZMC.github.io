@@ -98,7 +98,7 @@ description="ZMC Build 7.0 based on a customized Aeon-Nox-SiLVO skin"
 
 name="ZMC TEST BUILD"
 version="1.0"
-url="https://archive.org/download/zmc5new/zmc5new.zip"
+url=""
 minor="http://"
 gui="http://"
 kodi="20.1"
