@@ -27,7 +27,7 @@ info="http://"
 description="ZMC Nexus Build v4.0 a lightweight build featuring a customized Aeon-Nox-SiLVO skin"
 
 name="ZMC O'Canada Build"
-version="2.0"
+version="1.0"
 url="https://archive.org/download/ocanada2/ocanada2.zip"
 minor="http://"
 gui="http://"
