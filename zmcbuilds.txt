@@ -14,7 +14,7 @@ description="ZMC Builds. Please select from the list below."
 
 name="ZMC NEXUS V4.0"
 version="4.0"
-url="https://archive.org/download/zmcnexus4/zmcnexus4.zip"
+url="https://archive.org/download/zmc4.2/zmc4.2.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
