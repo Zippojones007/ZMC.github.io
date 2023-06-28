@@ -2,4 +2,4 @@
 |||
 [COLOR yellow][B][I]ZMC GUI WIZARD 3.0 [/COLOR]
 [COLOR red][B] Important Announcement [/COLOR]
-[COLOR yellow][B][I]Thank you for choosing Zippo's Media Center, At this time some of ZMC's builds have lost the custmized backgrounds, fonts and other aspects of the builds visual effects do to an update in the Aeon-Nox-SiLVOskin.  thees shouldn't effect the builds performances. An update to ZMC's builds will be posted soon.[/COLOR]
+[COLOR yellow][B][I]Thank you for choosing Zippo's Media Center. ZMC builds for kodi 19.4 and 19.5 have been removedfrom the bilds wizard. ZMC 20 builds have been recently updated as of 28/06/23[/COLOR]
