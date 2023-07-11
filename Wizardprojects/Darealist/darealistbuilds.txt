@@ -68,7 +68,7 @@ adult="no"
 info="http://"
 description="NBA Michael Jordan theme'
 
-name="Marvel VS Capcom VS DC'
+name="Marvel VS Capcom VS DC"
 version="1.0"
 url="https://archive.org/download/marvelcapdc/MARVEL%20VS%20CAP%20VS%20DC%20V1.2.zip"
 minor="http://"
