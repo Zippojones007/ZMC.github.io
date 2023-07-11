@@ -14,7 +14,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="DAREALIST TV"
 version="1.0"
-url="https://archive.org/download/darealisttv/DAREALISTTV%20V3.3.zipp"
+url="https://archive.org/download/darealisttv/DAREALISTTV%20V3.3.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
