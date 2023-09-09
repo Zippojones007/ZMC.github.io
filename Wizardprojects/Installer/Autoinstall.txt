@@ -1,0 +1,3 @@
+name="Barroni-A-I"
+version="0.0.1"
+url="http://twistednutz.xyz/Wizard/Builds/Goosebumps.zip"
