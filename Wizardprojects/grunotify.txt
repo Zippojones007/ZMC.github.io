@@ -1,5 +1,0 @@
-1
-|||
-[COLOR yellow][B][I]ZMC GUI WIZARD 3.0 [/COLOR]
-[COLOR red][B] Important Announcement [/COLOR]
-[COLOR yellow][B][I]Thank you for choosing Zippo's Media Center. ZMC builds for kodi 19.4 and 19.5 have been removed from the builds wizard. ZMC 20 builds have been recently updated as of 28/06/23[/COLOR]
