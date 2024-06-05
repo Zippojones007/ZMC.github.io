@@ -16,5 +16,21 @@
 
 </build>
 
+<build>
+
+<name>ZMC GOLD Build</name>
+
+<version>V1.0</version>
+
+<url>https://archive.org/download/zmcgold/zmcgold.zip</url>
+
+<icon>https://archive.org/download/zmcgold/default_settings.jpg</icon>
+
+<fanart>https://archive.org/download/zmcgold/default_settings.jpg</fanart>
+
+<description>This All NEW Kodi Omega Build uses Free addons for free content. Debrid Subscription is not required but is compatible.</description>
+
+</build>
+
 </builds>
 
