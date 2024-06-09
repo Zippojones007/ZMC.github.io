@@ -2,7 +2,7 @@
 
 <build>
 
-<name>Cman SG BUILDS</name>
+<name>zippos temporary build file</name>
 
 <version>V1.0</version>
 
@@ -12,7 +12,7 @@
 
 <fanart>https://archive.org/download/zmcnewomega_202406/Picsart_24-06-03_23-48-09-594.jpg</fanart>
 
-<description>Welcome to Cman SG SMART WIZARD.</description>
+<description>placed here until new builds xml and txt files are created.</description>
 
 </build>
 
