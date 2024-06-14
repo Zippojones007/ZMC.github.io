@@ -1,7 +1,7 @@
 9
 |||
-Welcome ZMC Smart Wizard 1.0.
+Welcome to ZMC Smart Wizard 1.0.
 
-*All future buildupdates will be tested on 21 Omega
-
+*All future buildupdates will be tested on 21 Omega.
+*NEW Builds available! Check the builds menu.
 *Hope you have a great day!
