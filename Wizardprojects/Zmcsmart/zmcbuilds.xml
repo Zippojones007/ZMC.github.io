@@ -32,5 +32,21 @@
 
 </build>
 
+<build>
+
+<name>ZMC Ninja Build</name>
+
+<version>V1.0</version>
+
+<url>https://archive.org/download/ninja_202406/ninja.zip</url>
+
+<icon>https://archive.org/download/ninja_202406/004.jpg</icon>
+
+<fanart>https://archive.org/download/ninja_202406/004.jpg</fanart>
+
+<description>All NEW Lite Omega build using the Aeon-Nox-SiLVO skin. no widgets installed just submenus</description>
+
+</build>
+
 </builds>
 
