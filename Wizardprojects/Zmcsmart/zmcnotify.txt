@@ -3,5 +3,6 @@
 Welcome to ZMC Smart Wizard 1.0.
 
 *All future buildupdates will be tested on 21 Omega.
-*NEW Builds available! Check the builds menu.
+*ZMC Ninja Build has been upgraded with a new Aeon Terror Skin. Cleaner Skin with dissappearing widgets.
+
 *Hope you have a great day!
