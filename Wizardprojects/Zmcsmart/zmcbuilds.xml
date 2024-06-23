@@ -48,6 +48,22 @@
   And a new Setup Switcher addon to easily change between setups.</description>
 
 </build>
+  
+<build>
+
+<name>ZMC Metro Ninja Build</name>
+
+<version>V1.0</version>
+
+<url>https://archive.org/download/zmcmetroninja/zmcmetroninja.zip</url>
+
+<icon>https://archive.org/download/zmcmetroninja/fanart.jpg</icon>
+
+<fanart>https://archive.org/download/zmcmetroninja/fanart.jpg</fanart>
+
+<description>ZMC's Ninja build featuring the Metropolis k21 skin.</description>
+
+</build>
 
 </builds>
 
