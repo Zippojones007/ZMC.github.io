@@ -65,5 +65,22 @@
 
 </build>
 
+  <build>
+
+<name>ZMC's Terminator Build</name>
+
+<version>V1-0</version>
+
+<url>https://archive.org/download/zmcterminator1-0/zmcterminator1-0.zip</url>
+
+<icon>https://archive.org/download/zmcterminator1-0/fanart4.jpg</icon>
+
+<fanart>https://archive.org/download/zmcterminator1-0/fanart4.jpg</fanart>
+
+<description>ZMC's Terminator Build v1-0
+For fans of the hit movies, this build features three individual setups and a handy setup Switcher to quickly change between them.</description>
+
+</build>
+
 </builds>
 
