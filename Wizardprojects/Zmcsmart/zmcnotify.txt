@@ -5,6 +5,6 @@ Welcome to ZMC Smart Wizard 1.0.
 *All future buildupdates will be tested on 21 Omega.
 *ZMC's Ninja Build Now with Three Separate Build Setups using three different skins
   And a new Setup Switcher addon to easily change between setups.
-*New Build available now.ZMC's Terminator Build v1-0
-For fans of the hit movies, this build features three individual setups and a handy setup Switcher to quickly change between them.
+*New Build available now. ZMC's Terminator Build Update v1-1
+For fans of the hit movies, this build now features fourindividual setups and a handy setup Switcher to quickly change between them.
 *Hope you have a great day!
