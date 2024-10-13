@@ -1,6 +1,6 @@
 <builds>
  
-  <build>
+<build>
 
 <name>ZMC Omega Build</name>
 
@@ -16,7 +16,7 @@
 
 </build>
 
-  <build>
+<build>
 
 <name>ZMC GOLD Build</name>
 
@@ -32,7 +32,7 @@
 
 </build>
 
-  <build>
+<build>
 
 <name>ZMC Ninja Build</name>
 
@@ -49,7 +49,7 @@
 
 </build>
   
-  <build>
+<build>
 
 <name>ZMC Metro Ninja Build</name>
 
@@ -65,7 +65,7 @@
 
 </build>
 
-  <build>
+<build>
 
 <name>ZMC's Terminator Build</name>
 
@@ -82,13 +82,13 @@ For fans of the hit movies, this build Now features Five individual setups and a
 
 </build>
   
-  <build>
+<build>
 
 <name>test do not use</name>
 
 <version>V1.0</version>
 
-<url>https://drive.google.com/uc?export=downloadid=1pHgi6mJDhJYMt-MweXu4JqfhavlDS-aS</url>
+<url>https://drive.google.com/uc?export=download&id=1pHgi6mJDhJYMt-MweXu4JqfhavlDS-aS</url>
 
 <icon></icon>
 
