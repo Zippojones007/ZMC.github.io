@@ -1,100 +1,18 @@
 <builds>
- 
-<build>
-
-<name>ZMC Omega Build</name>
-
-<version>V1.0.1</version>
-
-<url>https://archive.org/download/zmcnewomega_20240612/zmcnewomega.zip</url>
-
-<icon>https://archive.org/download/zmcnewomega_202406/Picsart_24-06-03_23-48-09-594.jpg</icon>
-
-<fanart>https://archive.org/download/zmcnewomega_202406/Picsart_24-06-03_23-48-09-594.jpg</fanart>
-
-<description>All NEW Lite Omega Build Includes ZMC's New Builds Wizard..</description>
-
-</build>
 
 <build>
 
-<name>ZMC GOLD Build</name>
-
-<version>V1.0.1</version>
-
-<url>https://archive.org/download/zmcgold_202406/zmcgold.zip</url>
-
-<icon>https://archive.org/download/zmcgold/default_settings.jpg</icon>
-
-<fanart>https://archive.org/download/zmcgold/default_settings.jpg</fanart>
-
-<description>This All NEW Kodi Omega Build uses Free addons for free content. Debrid Subscription is not required but is compatible.</description>
-
-</build>
-
-<build>
-
-<name>ZMC Ninja Build</name>
-
-<version>2.0</version>
-
-<url>https://archive.org/download/ninja_2_202406/ninja_2.zip</url>
-
-<icon>https://archive.org/download/ninja_2_202406/tv.jpg</icon>
-
-<fanart>https://archive.org/download/ninja_2_202406/tv.jpg</fanart>
-
-<description>.ZMC's Ninja Build Now with Three Separate Build Setups using three different skins
-  And a new Setup Switcher addon to easily change between setups.</description>
-
-</build>
-  
-<build>
-
-<name>ZMC Metro Ninja Build</name>
-
-<version>V1.0</version>
-
-<url>https://archive.org/download/zmcmetroninja/zmcmetroninja.zip</url>
-
-<icon>https://archive.org/download/zmcmetroninja/fanart.jpg</icon>
-
-<fanart>https://archive.org/download/zmcmetroninja/fanart.jpg</fanart>
-
-<description>ZMC's Ninja build featuring the Metropolis k21 skin.</description>
-
-</build>
-
-<build>
-
-<name>ZMC's Terminator Build</name>
-
-<version>V1-2</version>
-
-<url>https://archive.org/download/zmcterminator1-2/zmcterminator1-2.zip</url>
-
-<icon>https://archive.org/download/zmcterminator1-0/fanart4.jpg</icon>
-
-<fanart>https://archive.org/download/zmcterminator1-0/fanart4.jpg</fanart>
-
-<description>ZMC's Terminator Build v1-2
-For fans of the hit movies, this build Now features Five individual setups and a handy setup Switcher to quickly change between them.</description>
-
-</build>
-  
-<build>
-
-<name>test do not use</name>
+<name>ZMC Test</name>
 
 <version>V1.0</version>
 
 <url>https://drive.google.com/uc?export=download&id=1pHgi6mJDhJYMt-MweXu4JqfhavlDS-aS</url>
 
-<icon></icon>
+<icon>https://archive.org/download/zmcohcanada/default_settings.jpg</icon>
 
-<fanart></fanart>
+<fanart>https://archive.org/download/zmcohcanada/default_settings.jpg</fanart>
 
-<description>Test Do not use.</description>
+<description>Test Do not use!.</description>
 
 </build>
 
