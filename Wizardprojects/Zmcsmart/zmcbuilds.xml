@@ -1,6 +1,6 @@
 <builds>
-
-<build>
+ 
+  <build>
 
 <name>ZMC Omega Build</name>
 
@@ -16,7 +16,7 @@
 
 </build>
 
-<build>
+  <build>
 
 <name>ZMC GOLD Build</name>
 
@@ -32,7 +32,7 @@
 
 </build>
 
-<build>
+  <build>
 
 <name>ZMC Ninja Build</name>
 
@@ -49,7 +49,7 @@
 
 </build>
   
-<build>
+  <build>
 
 <name>ZMC Metro Ninja Build</name>
 
