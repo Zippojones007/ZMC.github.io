@@ -1,6 +1,6 @@
 <builds>
 
-<build>
+  <build>
 
 <name>ZMC Test</name>
 
@@ -8,13 +8,13 @@
 
 <url>https://drive.google.com/uc?export=download&id=1pHgi6mJDhJYMt-MweXu4JqfhavlDS-aS</url>
 
-<icon>https://archive.org/download/zmcohcanada/default_settings.jpg</icon>
+<icon></icon>
 
-<fanart>https://archive.org/download/zmcohcanada/default_settings.jpg</fanart>
+<fanart></fanart>
 
 <description>Test Do not use!.</description>
 
-</build>
+  </build>
 
 </builds>
 
