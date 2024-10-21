@@ -1,12 +1,12 @@
 <builds>
 
   <build>
-	<name>Test</name>
-	<version>1</version>
-	<url>https://drive.google.com/uc?export=download&id=1pHgi6mJDhJYMt-MweXu4JqfhavlDS-aS</url>
-	<icon></icon>
-	<fanart></fanart>
-	<description></description>
+	<name>TerminatorBuild</name>
+	<version>1.2</version>
+	<url>https://archive.org/download/zmcterminator1-2/zmcterminator1-2.zip</url>
+	<icon>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</icon>
+	<fanart>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</fanart>
+	<description>ZMC Terminator Build</description>
   </build>
   
 </builds>
