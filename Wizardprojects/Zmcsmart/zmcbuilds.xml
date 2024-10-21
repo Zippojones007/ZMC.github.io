@@ -1,6 +1,15 @@
 <builds>
 
   <build>
+	<name>ZMC Ninja Build 2.0 </name>
+	<version12.0</version>
+	<url>https://archive.org/download/ninja_2_202406/ninja_2.zip</url>
+	<icon>https://archive.org/download/ninja_2_202406/tv.jpg</icon>
+	<fanart>https://archive.org/download/ninja_2_202406/tv.jpg</fanart>
+	<description>ZMC Ninja Build Build</description>
+  </build>
+
+  <build>
 	<name>TerminatorBuild</name>
 	<version>1.2</version>
 	<url>https://archive.org/download/zmcterminator1-2/zmcterminator1-2.zip</url>
