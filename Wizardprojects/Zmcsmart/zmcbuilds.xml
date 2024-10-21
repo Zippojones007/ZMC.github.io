@@ -6,7 +6,7 @@
 	<url>https://archive.org/download/ninja_2_202406/ninja_2.zip</url>
 	<icon>https://archive.org/download/ninja_2_202406/tv.jpg</icon>
 	<fanart>https://archive.org/download/ninja_2_202406/tv.jpg</fanart>
-	<description>ZMC Ninja Build Build</description>
+	<description>ZMC Ninja Build</description>
   </build>
   <build>
 	<name>TerminatorBuild</name>
@@ -15,6 +15,14 @@
 	<icon>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</icon>
 	<fanart>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</fanart>
 	<description>ZMC Terminator Build</description>
+  </build>
+  <build>
+	<name>ZMC Ninja Metropolis Build</name>
+	<version>1.0</version>
+	<url>https://archive.org/download/zmcmetroninja/zmcmetroninja.zip</url>
+	<icon>https://archive.org/download/zmcmetroninja/fanart.jpg</icon>
+	<fanart>https://archive.org/download/zmcmetroninja/fanart.jpg</fanart>
+	<description>ZMC Ninja Metropolis Build</description>
   </build>
   
 </builds>
