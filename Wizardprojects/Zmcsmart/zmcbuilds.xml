@@ -2,7 +2,7 @@
 
   <build>
 	<name>ZMC Ninja Build 2.0 </name>
-	<version12.0</version>
+	<version>2.0</version>
 	<url>https://archive.org/download/ninja_2_202406/ninja_2.zip</url>
 	<icon>https://archive.org/download/ninja_2_202406/tv.jpg</icon>
 	<fanart>https://archive.org/download/ninja_2_202406/tv.jpg</fanart>
