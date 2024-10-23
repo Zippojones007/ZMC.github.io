@@ -1,0 +1,12 @@
+<builds>
+
+  <build>
+	<name>Test</name>
+	<version>1.2</version>
+	<url>https://drive.google.com/uc?export=download&id=1rZDEIv8l3sIEljOWHF3iMdaY1JvlOYcR</url>
+	<icon>https://drive.google.com/uc?export=download&id=1rZf6GNxRVevpEvwf3NgFuOgzdf_QzrFI</icon>
+	<fanart>https://drive.google.com/uc?export=download&id=1rZf6GNxRVevpEvwf3NgFuOgzdf_QzrFI</fanart>
+	<description>testing with terminator build from google drive.</description>
+  </build>
+  
+</builds>
