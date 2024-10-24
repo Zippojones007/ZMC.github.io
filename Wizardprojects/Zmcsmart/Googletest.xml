@@ -17,5 +17,14 @@
 	<fanart>https://archive.org/download/ninja_2_202406/tv.jpg</fanart>
 	<description>testing with Ninja build from google drive.</description>
   </build>
+
+  <build>
+	<name>MetroNinja</name>
+	<version2>1.0</version>
+	<url>https://rb.gy/bz5jtc</url>
+	<icon>https://archive.org/download/zmcmetroninja/fanart.jpg</icon>
+	<fanart>https://archive.org/download/zmcmetroninja/fanart.jpg</fanart>
+	<description>testing with Ninja build from google drive.</description>
+  </build>
   
   </builds>
