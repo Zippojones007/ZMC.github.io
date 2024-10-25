@@ -7,4 +7,5 @@ We have moved the builds to a DropBox server. Although the thumbnails may not
 show up in the Wizard, the Builds within the wizard should still download 
 and install normally.
 
+*Ninja Build v3.0 Update available! The Loop Addon added.
 Thank you for choosing ZMC.
