@@ -1,12 +1,12 @@
 <builds>
 
   <build>
-	<name>ZMC Ninja Build 2.0 </name>
+	<name>ZMC Ninja Build 3.0 </name>
 	<version>2.0</version>
-	<url>https://rb.gy/ipy6gh</url>
+	<url>https://rb.gy/fmuvzn</url>
 	<icon>https://archive.org/download/ninja_2_202406/tv.jpg</icon>
 	<fanart>https://archive.org/download/ninja_2_202406/tv.jpg</fanart>
-	<description>ZMC Ninja Build</description>
+	<description>ZMC Ninja Build 3.0 now with The Loop Addon!</description>
   </build>
   <build>
 	<name>TerminatorBuild</name>
