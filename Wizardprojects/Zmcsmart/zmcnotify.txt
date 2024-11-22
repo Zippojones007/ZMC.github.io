@@ -9,3 +9,5 @@ and install normally.
 
 *Ninja Build v3.0 Update available! The Loop Addon added.
 Thank you for choosing ZMC.
+
+*New build available! StarWars v2.0 in the builds menu.
