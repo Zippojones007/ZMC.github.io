@@ -1,12 +1,12 @@
 <builds>
 
   <build>
-	<name>ZMC Ninja Build 3.0 </name>
-	<version>2.0</version>
-	<url>https://rb.gy/fmuvzn</url>
+	<name>ZMC Ninja Build 4.0 </name>
+	<version>4.0</version>
+	<url>https://rb.gy/3qeeu3</url>
 	<icon>https://archive.org/download/ninja_2_202406/tv.jpg</icon>
 	<fanart>https://archive.org/download/ninja_2_202406/tv.jpg</fanart>
-	<description>ZMC Ninja Build 3.0 now with The Loop Addon!</description>
+	<description>ZMC Ninja Build 4.0 now with Scrubd V2 Scrapper addon.</description>
   </build>
   <build>
 	<name>TerminatorBuild</name>
