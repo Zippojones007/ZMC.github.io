@@ -10,4 +10,6 @@ and install normally.
 *Ninja Build v4.0 Update available! Now Includes the Scrubs V2 scrapper addon.
 Thank you for choosing ZMC.
 
+*Update for Terminator Build. V3.0 Now has the Scrubs V2 scraper addon.
+
 *New build Update available! StarWars v3.0 added new skin Metropolis and also the Scrubs V2 scraping addon. now in the builds menu.
