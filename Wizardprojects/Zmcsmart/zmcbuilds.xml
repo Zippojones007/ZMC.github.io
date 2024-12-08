@@ -32,5 +32,13 @@
 	<fanart>https://archive.org/download/star-wars-fork-arm-64-v-8a/Picsart_24-11-17_09-07-20-741.jpg</fanart>
 	<description>ZMC StarWars Build</description>
   </build>
+	<build>
+	<name>ZMC Christmas Build</name>
+	<version>1.0</version>
+	<url>https://rb.gy/opgz0v</url>
+	<icon>https://rb.gy/hmj50p</icon>
+	<fanart>https://rb.gy/hmj50p</fanart>
+	<description>ZMC Christmas Build 1.0 Happy Holidays!</description>
+  </build>
 	
 </builds>
