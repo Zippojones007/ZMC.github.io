@@ -8,6 +8,7 @@
 	<fanart>https://imgur.com/jicAdz7.jpg</fanart>
 	<description>The GRINCH</description>
   </build>
+  
   <build>
 	<name>BATMAN 1</name>
 	<version>1.4</version>
@@ -16,6 +17,7 @@
 	<fanart>https://imgur.com/q10dKcy.jpg</fanart>
 	<description>BATMAN BUILD ON BLACK GLASS NOVA SKIN</description>
   </build>
+  
   <build>
 	<name>BATMAN 2</name>
 	<version>1.3</version>
@@ -24,6 +26,7 @@
 	<fanart>https://imgur.com/R5T9pzA.jpg</fanart>
 	<description>BATMAN BUILD ON BLACK GLASS SKIN.</description>
   </build>
+  
   <build>
 	<name>THE GOOD THE BAD AND THE UGLY</name>
 	<version>1.2</version>
@@ -32,6 +35,7 @@
 	<fanart>https://imgur.com/tGgvjTO.jpg</fanart>
 	<description>WESTERN MOVIES AND SHOWS THEME.</description>
   </build>
+  
   <build>
 	<name>ULTRA LIVE TV</name>
 	<version>1.3</version>
@@ -40,6 +44,7 @@
 	<fanart>https://imgur.com/HwpgXbI.jpg</fanart>
 	<description>BUILD WITH LOTS OF LIVE TV.</description>
   </build>
+  
   <build>
 	<name>SILVO ULTRA LIVE TV</name>
 	<version>1.4</version>
@@ -48,6 +53,7 @@
 	<fanart>https://imgur.com/EMYPxYZ.jpg</fanart>
 	<description>BUILD WITH LOTS OF LIVE TV.</description>
   </build>
+  
   <build>
 	<name>GALAXY</name>
 	<version>1.3</version>
@@ -56,6 +62,7 @@
 	<fanart>https://imgur.com/vwfnjIZ.jpg</fanart>
 	<description>BUILD ABOUT OUTER SPACE.</description>
   </build>
+  
   <build>
 	<name>PAW PATROL OMEGA</name>
 	<version>1.2</version>
@@ -64,6 +71,7 @@
 	<fanart>https://imgur.com/W2lP8Qf.jpg</fanart>
 	<description>PAW PATROL THEMED KIDS BUILD.</description>
   </build>
+  
   <build>
 	<name>KIDS CORNER OMEGA</name>
 	<version>1.1</version>
@@ -72,6 +80,7 @@
 	<fanart>https://imgur.com/Qr6HBkc.jpg</fanart>
 	<description>KIDS CORNER KIDS BUILD.</description>
   </build>
+  
   <build>
 	<name>WIDGET ZONE KIDS OMEGA</name>
 	<version>1.1</version>
@@ -80,6 +89,7 @@
 	<fanart>https://imgur.com/rsFnai3.jpg</fanart>
 	<description>KIDS BUILD WITH LOTS OF WIDGETS FOR EASY USE.</description>
   </build>
+  
   <build>
 	<name>GIFFY NO ADULT BUIL</name>
 	<version>1.5</version>
@@ -88,6 +98,7 @@
 	<fanart>https://imgur.com/PIcZQpp.jpg</fanart>
 	<description>GIF BASED BUILD..</description>
   </build>
+  
   <build>
 	<name>DAREALIST TV OMEGA</name>
 	<version>1.2</version>
@@ -96,6 +107,7 @@
 	<fanart>https://imgur.com/QOnDmMX.jpg</fanart>
 	<description>DAREALIST TV WITH LOTS OF LIVE TV MOVIES AND SPORTS.</description>
   </build>
+  
   <build>
 	<name>MASTERS OF FEAR NO ADULT CONTENT</name>
 	<version>1.3</version>
@@ -104,6 +116,7 @@
 	<fanart>https://imgur.com/f7sMbYP.jpg</fanart>
 	<description>HORROR THEMED BUILD.</description>
   </build>
+  
   <build>
 	<name>WIDGET ZONE OMEGA BUILD</name>
 	<version>1.1</version>
@@ -112,6 +125,7 @@
 	<fanart>https://imgur.com/8j2jfrg.jpg</fanart>
 	<description>WIDGET ZONE OMEGA BUILD.</description>
   </build>
+  
   <build>
 	<name>BMF</name>
 	<version>1.3</version>
@@ -120,6 +134,7 @@
 	<fanart>https://imgur.com/tjW4DJc.jpg</fanart>
 	<description>BMF TV SHOW BUILD HAS SOME OF EVERYTHING.</description>
   </build>
+  
   <build>
 	<name>STEELERS OMEGA</name>
 	<version>1.3</version>
@@ -128,6 +143,7 @@
 	<fanart>https://imgur.com/xWu3vQ8.jpg</fanart>
 	<description>PITTSBURGH STEELERS BUILD.</description>
   </build>
+  
   <build>
 	<name>BRUCE LEE OMEGA v1</name>
 	<version>1.1</version>
@@ -136,6 +152,7 @@
 	<fanart>https://imgur.com/i4AMHbD.jpg</fanart>
 	<description>BRUCE LEE BUILD WITH FIGHTING GIFS.</description>
   </build>
+  
   <build>
 	<name>SPORTACULAR</name>
 	<version>1.7</version>
@@ -144,6 +161,7 @@
 	<fanart>https://rb.gy/n5xqks</fanart>
 	<description>NOTHING BUT SPORTS.</description>
   </build>
+  
   <build>
 	<name>THE NFL</name>
 	<version>1.1</version>
@@ -152,6 +170,7 @@
 	<fanart>https://imgur.com/WrKW1Rf.jpg</fanart>
 	<description>NFL THEMED BUILD.</description>
   </build>
+  
   <build>
 	<name>THE GOAT</name>
 	<version>1.2</version>
@@ -160,6 +179,7 @@
 	<fanart>https://imgur.com/CTCtTB1.jpg</fanart>
 	<description>MICHAEL JORDAN THEMED BUILD WITH SWITCHABLE SKINS</description>
   </build>
+  
   <build>
 	<name>THE REAPER</name>
 	<version>1.1</version>
@@ -168,6 +188,7 @@
 	<fanart>https://imgur.com/iPLyYVM.jpg</fanart>
 	<description>THE REAPER.</description>
   </build>
+  
   <build>
 	<name>FIGHT NIGHT OMEGA</name>
 	<version>1.1</version>
@@ -176,6 +197,7 @@
 	<fanart>https://imgur.com/F144O6r.jpg</fanart>
 	<description>FIGHTING SPORTS THEME WITH GIFS..</description>
   </build>
+  
   <build>
 	<name>NBA 2K MADDEN NFL</name>
 	<version>1.1</version>
@@ -184,6 +206,7 @@
 	<fanart>https://imgur.com/TRUSkkx.jpg</fanart>
 	<description>VIDEO GAME THEME.</description>
   </build>
+  
   <build>
 	<name>STRANGER THINGS OMEGA</name>
 	<version>1.1</version>
@@ -192,14 +215,16 @@
 	<fanart>https://imgur.com/RLeM7kp.jpg</fanart>
 	<description>STRANGER THINGS TV SHOW BUILD.</description>
   </build>
+  
   <build>
 	<name>GOBLINS TOUCH</name>
 	<version>1.2</version>
-	<url>https://www.dropbox.com/scl/fi/k4s0jncyvmncv92xxctsw/Green-Goblin-Touch-no-xxx-1.2.zip?rlkey=mpykdz24rotsddtr5n4rai6ia&st=lvf0</url>
+	<url>https://rb.gy/jkmj1e</url>
 	<icon>https://imgur.com/A1CQSaO.jpg</icon>
 	<fanart>https://imgur.com/A1CQSaO.jpg</fanart>
 	<description>GREEN GOBLINS TOUCH BUILD.</description>
   </build>
+  
   <build>
 	<name>HACKER</name>
 	<version>1.1</version>
@@ -208,6 +233,7 @@
 	<fanart>https://imgur.com/HKT9E4x.jpg</fanart>
 	<description>WE ARE THE INTERNET.</description>
   </build>
+  
   <build>
 	<name>MILES MORALES</name>
 	<version>1.0</version>
@@ -216,6 +242,7 @@
 	<fanart>https://imgur.com/G09x2fh.jpg</fanart>
 	<description>MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS.</description>
   </build>
+  
   <build>
 	<name>FAMILY GUY</name>
 	<version>1.1</version>
@@ -224,6 +251,7 @@
 	<fanart>https://imgur.com/O2T22CC.jpg</fanart>
 	<description>FAMILY GUY TV SHOW.</description>
   </build>
+  
   <build>
 	<name>GREEN GOBLIN SILVO</name>
 	<version>1.3</version>
@@ -232,6 +260,7 @@
 	<fanart>https://imgur.com/2sUS1Ic.jpg</fanart>
 	<description>GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN.</description>
   </build>
+  
   <build>
 	<name>BAD BOYS</name>
 	<version>1.1</version>
@@ -240,6 +269,7 @@
 	<fanart>https://imgur.com/B63z8dZ.jpg</fanart>
 	<description>BAD BOYS MOVIE THEME USING AEON TERROR SKIN..</description>
   </build>
+  
   <build>
 	<name>DAREALIST ADULT KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
@@ -248,6 +278,7 @@
 	<fanart></fanart>
 	<description>DAREALIST ADULT SECTION</description>
   </build>
+  
   <build>
 	<name>BAD BOYS</name>
 	<version>1.1</version>
@@ -256,6 +287,7 @@
 	<fanart>https://imgur.com/B63z8dZ.jpg</fanart>
 	<description>BAD BOYS MOVIE THEME USING AEON TERROR SKIN..</description>
   </build>
+  
   <build>
 	<name>GET CUMFY</name>
 	<version>1.1</version>
@@ -264,6 +296,7 @@
 	<fanart>https://imgur.com/GwqvpAx.jpg</fanart>
 	<description>LOTS OF ADULT CONTENT.</description>
   </build>
+  
   <build>
 	<name>DAREALIST TV XXX OMEGA</name>
 	<version>1.2</version>
@@ -272,6 +305,7 @@
 	<fanart>https://imgur.com/QOnDmMX.jpg</fanart>
 	<description>DAREALIST TV WITH LOTS OF LIVE TV AND ADULT CONTENT.</description>
   </build>
+  
   <build>
 	<name>DAREALIST TV V2</name>
 	<version>1.0</version>
@@ -280,6 +314,7 @@
 	<fanart>https://imgur.com/tNKvajK.jpg</fanart>
 	<description>DAREALIST TV VERSION 2.</description>
   </build>
+  
   <build>
 	<name>BMF ADULT</name>
 	<version>1.3</version>
@@ -288,6 +323,7 @@
 	<fanart>https://imgur.com/u1P2BdW.jpg</fanart>
 	<description>BMF TV SHOW BUILD WITH LIVE TV SPORTS AND ADULT CONTENT.</description>
   </build>
+  
   <build>
 	<name>GIFFY ADULT</name>
 	<version>1.5</version>
@@ -296,6 +332,7 @@
 	<fanart>https://imgur.com/PIcZQpp.jpg</fanart>
 	<description>KODI BUILD WITH LOTS OF GIFS.</description>
   </build>
+  
   <build>
 	<name>MASTER OF FEAR ADULT</name>
 	<version>1.2</version>
@@ -304,6 +341,7 @@
 	<fanart>https://imgur.com/f7sMbYP.jpg</fanart>
 	<description>HORROR THEMED BUILD WITH ADULT CONTEN.</description>
   </build>
+  
   <build>
   <name>GOBLINS TOUCH XXX</name>
 	<version>1.3</version>
@@ -312,6 +350,7 @@
 	<fanart>https://imgur.com/A1CQSaO.jpg</fanart>
 	<description>GREEN GOBLINS TOUCH BUILD FOR TOUCHSCREEN DEVICES ALSO.</description>
   </build>
+  
   <build>
   <name>GALAXY ADULT BUILD</name>
 	<version>1.5</version>
@@ -320,6 +359,7 @@
 	<fanart>https://imgur.com/vwfnjIZ.jpg</fanart>
 	<description>SPACE THEMED BUILD WITH ADULT CONTENT.</description>
   </build>
+  
   <build>
   <name>MILES MORALES ADULT</name>
 	<version>1.0</version>
@@ -328,6 +368,7 @@
 	<fanart>https://imgur.com/mtEAQOi.jpg</fanart>
 	<description>MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS.</description>
   </build>
+  
   <build>
   <name>FAMILY GUY ADULT</name>
 	<version>1.1</version>
@@ -336,6 +377,7 @@
 	<fanart>https://imgur.com/O2T22CC.jpg</fanart>
 	<description>FAMILY GUY TV SHOW</description>
   </build>
+  
   <build>
   <name>GREEN GOBLIN</name>
 	<version>1.2</version>
@@ -344,6 +386,7 @@
 	<fanart>https://imgur.com/VXtIVsF.jpg</fanart>
 	<description>GREEN GOBLIN THEMED ADULT BUILD WITH AEON NOX SILVO SKIN.</description>
   </build>
+  
   <build>
   <name>ULTRA LIVE TV XXX</name>
 	<version>1.3</version>
@@ -352,6 +395,7 @@
 	<fanart>https://imgur.com/bMhccm0.jpg</fanart>
 	<description>BUILD WITH LOTS OF LIVE TV.</description>
   </build>
+  
   <build>
   <name>BRAD NOX AUSTRONAUT</name>
 	<version>1.1</version>
