@@ -1,0 +1,29 @@
+<builds>
+
+  <build>
+	<name>GRINCH</name>
+	<version>1.0</version>
+	<url> https://www.dropbox.com/scl/fi/ody9vedfu32fjdq0g6son/GRINCH.zip?rlkey=643pzm2zrgc8wecmlt3oy4fpa&st=lvqd8m4z&dl=1</url>
+	<icon>https://imgur.com/jicAdz7.jpg</icon>
+	<fanart>https://imgur.com/jicAdz7.jpg</fanart>
+	<description>THE GRINCH</description>
+  </build>
+  
+</builds>
+ <build>
+	<name>BATMAN 1</name>
+	<version>1.4</version>
+	<url> https://rebrand.ly/suzipc1</url>
+	<icon>https://imgur.com/q10dKcy.jpg</icon>
+	<fanart>https://imgur.com/q10dKcy.jpg</fanart>
+	<description>BATMAN BUILD ON BLACK GLASS NOVA SKIN</description>
+  </build>
+  <build>
+	<name>BATMAN 2</name>
+	<version>1.3</version>
+	<url> https://rb.gy/hixqyh</url>
+	<icon>https://imgur.com/R5T9pzA.jpg</icon>
+	<fanart>https://imgur.com/R5T9pzA.jpg</fanart>
+	<description>BATMAN BUILD ON BLACK GLASS SKIN</description>
+  </build>
+
