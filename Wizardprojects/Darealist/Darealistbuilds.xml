@@ -1,0 +1,364 @@
+<builds>
+
+  <build>
+	<name>GRINCH</name>
+	<version>1.0</version>
+	<url>https://rb.gy/g38haf</url>
+	<icon>https://imgur.com/jicAdz7.jpg</icon>
+	<fanart>https://imgur.com/jicAdz7.jpg</fanart>
+	<description>The GRINCH</description>
+  </build>
+  <build>
+	<name>BATMAN 1</name>
+	<version>1.4</version>
+	<url>https://rebrand.ly/suzipc1</url>
+	<icon>https://imgur.com/q10dKcy.jpg</icon>
+	<fanart>https://imgur.com/q10dKcy.jpg</fanart>
+	<description>BATMAN BUILD ON BLACK GLASS NOVA SKIN</description>
+  </build>
+  <build>
+	<name>BATMAN 2</name>
+	<version>1.3</version>
+	<url>https://rb.gy/hixqyh</url>
+	<icon>https://imgur.com/R5T9pzA.jpg</icon>
+	<fanart>https://imgur.com/R5T9pzA.jpg</fanart>
+	<description>BATMAN BUILD ON BLACK GLASS SKIN.</description>
+  </build>
+  <build>
+	<name>THE GOOD THE BAD AND THE UGLY</name>
+	<version>1.2</version>
+	<url>https://rb.gy/pzi7ut</url>
+	<icon>https://imgur.com/tGgvjTO.jpg</icon>
+	<fanart>https://imgur.com/tGgvjTO.jpg</fanart>
+	<description>WESTERN MOVIES AND SHOWS THEME.</description>
+  </build>
+  <build>
+	<name>ULTRA LIVE TV</name>
+	<version>1.3</version>
+	<url>https://rb.gy/39d46m</url>
+	<icon>https://imgur.com/HwpgXbI.jpg</icon>
+	<fanart>https://imgur.com/HwpgXbI.jpg</fanart>
+	<description>BUILD WITH LOTS OF LIVE TV.</description>
+  </build>
+  <build>
+	<name>SILVO ULTRA LIVE TV</name>
+	<version>1.4</version>
+	<url>https://rb.gy/k5t7rx</url>
+	<icon>https://imgur.com/EMYPxYZ.jpg</icon>
+	<fanart>https://imgur.com/EMYPxYZ.jpg</fanart>
+	<description>BUILD WITH LOTS OF LIVE TV.</description>
+  </build>
+  <build>
+	<name>GALAXY</name>
+	<version>1.3</version>
+	<url>https://archive.org/download/galaxy-no-xxx-1.3/galaxy%20no%20xxx%201.3.zip</url>
+	<icon>https://imgur.com/vwfnjIZ.jpg</icon>
+	<fanart>https://imgur.com/vwfnjIZ.jpg</fanart>
+	<description>BUILD ABOUT OUTER SPACE.</description>
+  </build>
+  <build>
+	<name>PAW PATROL OMEGA</name>
+	<version>1.2</version>
+	<url>https://archive.org/download/paw-patrol_20241124/PAW%2BPATROL%2B1.2.zip</url>
+	<icon>https://imgur.com/W2lP8Qf.jpg</icon>
+	<fanart>https://imgur.com/W2lP8Qf.jpg</fanart>
+	<description>PAW PATROL THEMED KIDS BUILD.</description>
+  </build>
+  <build>
+	<name>KIDS CORNER OMEGA</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/kids-corner-1.1/kids%20corner%201.1.zip</url>
+	<icon>https://imgur.com/Qr6HBkc.jpg</icon>
+	<fanart>https://imgur.com/Qr6HBkc.jpg</fanart>
+	<description>KIDS CORNER KIDS BUILD.</description>
+  </build>
+  <build>
+	<name>WIDGET ZONE KIDS OMEGA</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/widget-zone-kids-1.1/WIDGET%20ZONE%20KIDS%201.1.zip</url>
+	<icon>https://imgur.com/rsFnai3.jpg</icon>
+	<fanart>https://imgur.com/rsFnai3.jpg</fanart>
+	<description>KIDS BUILD WITH LOTS OF WIDGETS FOR EASY USE.</description>
+  </build>
+  <build>
+	<name>GIFFY NO ADULT BUIL</name>
+	<version>1.5</version>
+	<url>https://rb.gy/cesuid</url>
+	<icon>https://imgur.com/PIcZQpp.jpg</icon>
+	<fanart>https://imgur.com/PIcZQpp.jpg</fanart>
+	<description>GIF BASED BUILD..</description>
+  </build>
+  <build>
+	<name>DAREALIST TV OMEGA</name>
+	<version>1.2</version>
+	<url>https://rebrand.ly/o5zqc94</url>
+	<icon>https://imgur.com/QOnDmMX.jpg</icon>
+	<fanart>https://imgur.com/QOnDmMX.jpg</fanart>
+	<description>DAREALIST TV WITH LOTS OF LIVE TV MOVIES AND SPORTS.</description>
+  </build>
+  <build>
+	<name>MASTERS OF FEAR NO ADULT CONTENT</name>
+	<version>1.3</version>
+	<url>https://rebrand.ly/gmh175o</url>
+	<icon>https://imgur.com/f7sMbYP.jpg</icon>
+	<fanart>https://imgur.com/f7sMbYP.jpg</fanart>
+	<description>HORROR THEMED BUILD.</description>
+  </build>
+  <build>
+	<name>WIDGET ZONE OMEGA BUILD</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/widget-zone/WIDGET%20ZONE%201.1.zip</url>
+	<icon>https://imgur.com/8j2jfrg.jpg</icon>
+	<fanart>https://imgur.com/8j2jfrg.jpg</fanart>
+	<description>WIDGET ZONE OMEGA BUILD.</description>
+  </build>
+  <build>
+	<name>BMF</name>
+	<version>1.3</version>
+	<url>https://rb.gy/ojzaxb</url>
+	<icon>https://imgur.com/tjW4DJc.jpg</icon>
+	<fanart>https://imgur.com/tjW4DJc.jpg</fanart>
+	<description>BMF TV SHOW BUILD HAS SOME OF EVERYTHING.</description>
+  </build>
+  <build>
+	<name>STEELERS OMEGA</name>
+	<version>1.3</version>
+	<url>https://archive.org/download/steelers_202411/steelers.zip</url>
+	<icon>https://imgur.com/xWu3vQ8.jpg</icon>
+	<fanart>https://imgur.com/xWu3vQ8.jpg</fanart>
+	<description>PITTSBURGH STEELERS BUILD.</description>
+  </build>
+  <build>
+	<name>BRUCE LEE OMEGA v1</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/bruce-lee_202407/bruce%20lee%201.1.zip</url>
+	<icon>https://imgur.com/i4AMHbD.jpg</icon>
+	<fanart>https://imgur.com/i4AMHbD.jpg</fanart>
+	<description>BRUCE LEE BUILD WITH FIGHTING GIFS.</description>
+  </build>
+  <build>
+	<name>SPORTACULAR</name>
+	<version>1.7</version>
+	<url>https://rb.gy/kimt63</url>
+	<icon>https://rb.gy/n5xqks</icon>
+	<fanart>https://rb.gy/n5xqks</fanart>
+	<description>NOTHING BUT SPORTS.</description>
+  </build>
+  <build>
+	<name>THE NFL</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/nfl-1_202407/NFL%20%281%29.zip</url>
+	<icon>https://imgur.com/WrKW1Rf.jpg</icon>
+	<fanart>https://imgur.com/WrKW1Rf.jpg</fanart>
+	<description>NFL THEMED BUILD.</description>
+  </build>
+  <build>
+	<name>THE GOAT</name>
+	<version>1.2</version>
+	<url>https://rb.gy/ilh08l</url>
+	<icon>https://imgur.com/CTCtTB1.jpg</icon>
+	<fanart>https://imgur.com/CTCtTB1.jpg</fanart>
+	<description>MICHAEL JORDAN THEMED BUILD WITH SWITCHABLE SKINS</description>
+  </build>
+  <build>
+	<name>THE REAPER</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/reaper-1.1_202407/reaper%201.1.zip</url>
+	<icon>https://imgur.com/iPLyYVM.jpg</icon>
+	<fanart>https://imgur.com/iPLyYVM.jpg</fanart>
+	<description>THE REAPER.</description>
+  </build>
+  <build>
+	<name>FIGHT NIGHT OMEGA</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/fight-night-omega-1.1/fight%20night%20omega1.1.zip</url>
+	<icon>https://imgur.com/F144O6r.jpg</icon>
+	<fanart>https://imgur.com/F144O6r.jpg</fanart>
+	<description>FIGHTING SPORTS THEME WITH GIFS..</description>
+  </build>
+  <build>
+	<name>NBA 2K MADDEN NFL</name>
+	<version>1.1</version>
+	<url>https://rb.gy/6qyc6m</url>
+	<icon>https://imgur.com/TRUSkkx.jpg</icon>
+	<fanart>https://imgur.com/TRUSkkx.jpg</fanart>
+	<description>VIDEO GAME THEME.</description>
+  </build>
+  <build>
+	<name>STRANGER THINGS OMEGA</name>
+	<version>1.1</version>
+	<url>https://rb.gy/vrig8s</url>
+	<icon>https://imgur.com/RLeM7kp.jpg</icon>
+	<fanart>https://imgur.com/RLeM7kp.jpg</fanart>
+	<description>STRANGER THINGS TV SHOW BUILD.</description>
+  </build>
+  <build>
+	<name>GOBLINS TOUCH</name>
+	<version>1.2</version>
+	<url>https://rb.gy/jkmj1e</url>
+	<icon>https://imgur.com/A1CQSaO.jpg</icon>
+	<fanart>https://imgur.com/A1CQSaO.jpg</fanart>
+	<description>GREEN GOBLINS TOUCH BUILD.</description>
+  </build>
+  <build>
+	<name>HACKER</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/hacker_20240806/HACKER%201.1.zip</url>
+	<icon>https://imgur.com/HKT9E4x.jpg</icon>
+	<fanart>https://imgur.com/HKT9E4x.jpg</fanart>
+	<description>WE ARE THE INTERNET.</description>
+  </build>
+  <build>
+	<name>MILES MORALES</name>
+	<version>1.0</version>
+	<url>https://archive.org/download/milesmorales/miles%2Bmorales.zip</url>
+	<icon>https://imgur.com/G09x2fh.jpg</icon>
+	<fanart>https://imgur.com/G09x2fh.jpg</fanart>
+	<description>MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS.</description>
+  </build>
+  <build>
+	<name>FAMILY GUY</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/family-guy-no-xxx/FAMILY%20GUY%20NO%20XXX.zip</url>
+	<icon>https://imgur.com/O2T22CC.jpg</icon>
+	<fanart>https://imgur.com/O2T22CC.jpg</fanart>
+	<description>FAMILY GUY TV SHOW.</description>
+  </build>
+  <build>
+	<name>GREEN GOBLIN SILVO</name>
+	<version>1.3</version>
+	<url>https://archive.org/download/green-goblIN/GREEN%2BGOBLIN%2B1.3.zip</url>
+	<icon>https://imgur.com/2sUS1Ic.jpg</icon>
+	<fanart>https://imgur.com/2sUS1Ic.jpg</fanart>
+	<description>GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN.</description>
+  </build>
+  <build>
+	<name>BAD BOYS</name>
+	<version>1.1</version>
+	<url>https://rb.gy/bd34g0</url>
+	<icon>https://imgur.com/B63z8dZ.jpg</icon>
+	<fanart>https://imgur.com/B63z8dZ.jpg</fanart>
+	<description>BAD BOYS MOVIE THEME USING AEON TERROR SKIN..</description>
+  </build>
+  <build>
+	<name>DAREALIST ADULT KODI 21 OMEGA BUILDS</name>
+	<version>0.0</version>
+	<url>http://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>DAREALIST ADULT SECTION</description>
+  </build>
+  <build>
+	<name>BAD BOYS</name>
+	<version>1.1</version>
+	<url>https://rb.gy/bd34g0</url>
+	<icon>https://imgur.com/B63z8dZ.jpg</icon>
+	<fanart>https://imgur.com/B63z8dZ.jpg</fanart>
+	<description>BAD BOYS MOVIE THEME USING AEON TERROR SKIN..</description>
+  </build>
+  <build>
+	<name>GET CUMFY</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/get-cumfy-1.1/get%20cumfy%201.1.zip</url>
+	<icon>https://imgur.com/GwqvpAx.jpg</icon>
+	<fanart>https://imgur.com/GwqvpAx.jpg</fanart>
+	<description>LOTS OF ADULT CONTENT.</description>
+  </build>
+  <build>
+	<name>DAREALIST TV XXX OMEGA</name>
+	<version>1.2</version>
+	<url>https://archive.org/download/darealist-xxx-1.2/DAREALIST%20XXX%201.2.zip</url>
+	<icon>https://imgur.com/QOnDmMX.jpg</icon>
+	<fanart>https://imgur.com/QOnDmMX.jpg</fanart>
+	<description>DAREALIST TV WITH LOTS OF LIVE TV AND ADULT CONTENT.</description>
+  </build>
+  <build>
+	<name>DAREALIST TV V2</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/51cct6s</url>
+	<icon>https://imgur.com/tNKvajK.jpg</icon>
+	<fanart>https://imgur.com/tNKvajK.jpg</fanart>
+	<description>DAREALIST TV VERSION 2.</description>
+  </build>
+  <build>
+	<name>BMF ADULT</name>
+	<version>1.3</version>
+	<url>https://rb.gy/4yvwnu</url>
+	<icon>https://imgur.com/u1P2BdW.jpg</icon>
+	<fanart>https://imgur.com/u1P2BdW.jpg</fanart>
+	<description>BMF TV SHOW BUILD WITH LIVE TV SPORTS AND ADULT CONTENT.</description>
+  </build>
+  <build>
+	<name>GIFFY ADULT</name>
+	<version>1.5</version>
+	<url>https://rb.gy/fiqv72</url>
+	<icon>https://imgur.com/PIcZQpp.jpg</icon>
+	<fanart>https://imgur.com/PIcZQpp.jpg</fanart>
+	<description>KODI BUILD WITH LOTS OF GIFS.</description>
+  </build>
+  <build>
+	<name>MASTER OF FEAR ADULT</name>
+	<version>1.2</version>
+	<url>https://archive.org/download/masters-of-fear-xxx/MASTERS%2BOF%2BFEAR%2BXXX.zip</url>
+	<icon>https://imgur.com/f7sMbYP.jpg</icon>
+	<fanart>https://imgur.com/f7sMbYP.jpg</fanart>
+	<description>HORROR THEMED BUILD WITH ADULT CONTEN.</description>
+  </build>
+  <build>
+        <name>GOBLINS TOUCH XXX</name>
+	<version>1.3</version>
+	<url>https://archive.org/download/green-goblin-xxx-1.3/GREEN%2BGOBLIN%2BXXX%2B1.3.zip</url>
+	<icon>https://imgur.com/A1CQSaO.jpg</icon>
+	<fanart>https://imgur.com/A1CQSaO.jpg</fanart>
+	<description>GREEN GOBLINS TOUCH BUILD FOR TOUCHSCREEN DEVICES ALSO.</description>
+  </build>
+  <build>
+        <name>GALAXY ADULT BUILD</name>
+	<version>1.5</version>
+	<url>https://archive.org/download/galaxy-xxx_202408/galaxy%201.4%20xxx.zip</url>
+	<icon>https://imgur.com/vwfnjIZ.jpg</icon>
+	<fanart>https://imgur.com/vwfnjIZ.jpg</fanart>
+	<description>SPACE THEMED BUILD WITH ADULT CONTENT.</description>
+  </build>
+  <build>
+        <name>MILES MORALES ADULT</name>
+	<version>1.0</version>
+	<url>https://archive.org/download/milestouchxxx/miles%2Btouch%2Bxxx.zip</url>
+	<icon>https://imgur.com/mtEAQOi.jpg</icon>
+	<fanart>https://imgur.com/mtEAQOi.jpg</fanart>
+	<description>MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS.</description>
+  </build>
+  <build>
+        <name>FAMILY GUY ADULT</name>
+	<version>1.1</version>
+	<url>https://archive.org/download/family-guy-xxx-2/FAMILY%20GUY%20XXX%20%282%29.zip</url>
+	<icon>https://imgur.com/O2T22CC.jpg</icon>
+	<fanart>https://imgur.com/O2T22CC.jpg</fanart>
+	<description>FAMILY GUY TV SHOW</description>
+  </build>
+  <build>
+        <name>GREEN GOBLIN</name>
+	<version>1.2</version>
+	<url>https://archive.org/download/green-goblin-xxX/GREEN%20GOBLIN%20XXX%201.2.zip</url>
+	<icon>https://imgur.com/VXtIVsF.jpg</icon>
+	<fanart>https://imgur.com/VXtIVsF.jpg</fanart>
+	<description>GREEN GOBLIN THEMED ADULT BUILD WITH AEON NOX SILVO SKIN.</description>
+  </build>
+  <build>
+        <name>ULTRA LIVE TV XXX</name>
+	<version>1.3</version>
+	<url>https://archive.org/download/ultra-live-xxx/ultra%20live%20xxx%201.3.zip</url>
+	<icon>https://imgur.com/bMhccm0.jpg</icon>
+	<fanart>https://imgur.com/bMhccm0.jpg</fanart>
+	<description>BUILD WITH LOTS OF LIVE TV.</description>
+  </build>
+  <build>
+        <name>BRAD NOX AUSTRONAUT</name>
+	<version>1.1</version>
+	<url>https://rb.gy/wg4wrb</url>
+	<icon>https://imgur.com/ElWlI8R.jpg</icon>
+	<fanart>https://imgur.com/ElWlI8R.jpg</fanart>
+	<description>BRAD NOX ASTRONAUT</description>
+  </build>
+  
+</builds>
