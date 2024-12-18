@@ -1,0 +1,12 @@
+<builds>
+
+  <build>
+	<name>Simply Omega</name>
+	<version>1.2</version>
+	<url>http://www.midian.appboxes.co/wolfeybuilds/Simplyomega.zip</url>
+	<icon>http://www.midian.appboxes.co/wolfeybuilds/icon.png</icon>
+	<fanart>http://cdn.wallpapersafari.com/54/89/pD7b4u.jpg</fanart>
+	<description>BMC Omega build</description>
+  </build>
+  
+</builds>
