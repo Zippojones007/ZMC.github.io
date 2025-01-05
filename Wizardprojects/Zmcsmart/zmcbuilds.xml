@@ -16,6 +16,7 @@
 	<icon>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</icon>
 	<fanart>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</fanart>
 	<description>ZMC Terminator Build</description>
+	<preview>https://rumble.com/v551mrx-terminator-kodi-build-with-its-own-apk.html</preview>
   </build>
   <build>
 	<name>ZMC Ninja Metropolis Build</name>
@@ -32,6 +33,7 @@
 	<icon>https://archive.org/download/star-wars-fork-arm-64-v-8a/Picsart_24-11-17_09-07-20-741.jpg</icon>
 	<fanart>https://archive.org/download/star-wars-fork-arm-64-v-8a/Picsart_24-11-17_09-07-20-741.jpg</fanart>
 	<description>ZMC StarWars Build</description>
+	<preview>https://youtu.be/WjVGfgSAqw0?si=C0sCdrJsDohXrkzi</preview>
   </build>
 	<build>
 	<name>ZMC Christmas Build</name>
@@ -40,6 +42,7 @@
 	<icon>https://archive.org/download/splash_202412/splash.jpg</icon>
 	<fanart>https://archive.org/download/splash_202412/splash.jpg</fanart>
 	<description>ZMC Christmas Build 1.0 Happy Holidays!</description>
+	<preview>https://youtu.be/a3ppuG_544Q?si=u86EgxnDtpAxbI05</preview>
   </build>
 	
 </builds>
