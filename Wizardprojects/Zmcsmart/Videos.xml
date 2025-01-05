@@ -35,5 +35,14 @@
 	<fanart>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</fanart>
 	<description>Get the Terminator Fork.</description>
   </video>
+
+  <video>
+	<name>Bonus: Deadpool Wolverine full movie</name>
+	<section>no</section>
+	<url>https://youtu.be/DENACFwUp4M?si=pRgJX5uOQtqPgr_l</url>
+	<icon>https://m.imdb.com/title/tt6263850/mediaviewer/rm4197742849/?ref_=ttmi_mi_all_9</icon>
+	<fanart>https://m.imdb.com/title/tt6263850/mediaviewer/rm4197742849/?ref_=ttmi_mi_all_9</fanart>
+	<description>Full length film on YouTube.</description>
+  </video>
   
 </videos>
