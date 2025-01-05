@@ -4,8 +4,8 @@
 	<name>ZMC'S NINJA Build Video by Tech Nick</name>
 	<section>no</section>
 	<url>https://youtu.be/WjVGfgSAqw0?si=CZlcRTvheQun_kyf</url>
-	<icon>http://</icon>
-	<fanart>http://</fanart>
+	<icon>https://archive.org/download/ninja_2_202406/tv.jpg</icon>
+	<fanart>https://archive.org/download/ninja_2_202406/tv.jpg</fanart>
 	<description>Get the Ninja Fork.</description>
   </video>
 
@@ -13,8 +13,17 @@
 	<name>ZMC'S STARWARS Build Video by Tech Nick</name>
 	<section>no</section>
 	<url>https://youtu.be/WHo_0ohu7K0?si=3VKfP-FHx5I1qhYF</url>
-	<icon>http://</icon>
-	<fanart>http://</fanart>
+	<icon>https://archive.org/download/star-wars-fork-arm-64-v-8a/Picsart_24-11-17_09-07-20-741.jpg</icon>
+	<fanart>https://archive.org/download/star-wars-fork-arm-64-v-8a/Picsart_24-11-17_09-07-20-741.jpg</fanart>
+	<description>Get the STARWARS Fork.</description>
+  </video>
+
+  <video>
+	<name>ZMC'S TERMINATOR Build Video by Tech Nick</name>
+	<section>no</section>
+	<url>https://rumble.com/v551mrx-terminator-kodi-build-with-its-own-apk.html</url>
+	<icon>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</icon>
+	<fanart>https://archive.org/download/zmcterminator1-2/Screenshot_20240720_150344_Terminator%20Fork.jpg</fanart>
 	<description>Get the Terminator Fork.</description>
   </video>
   
