@@ -1,6 +1,42 @@
 <videos>
 
   <video>
+	<name>Bonus: Double Feature Dogma Full movie 1999/ Jay and Silent Bob Strike Back 2001.</name><
+	<section>no</section>
+	<url>https://rumble.com/v5ueo98-353403980.html</url>
+	<icon>https://images7.alphacoders.com/801/801448.jpg</icon>
+	<fanart>https://images7.alphacoders.com/801/801448.jpg</fanart>
+	<description>2 Full length films on Rumble</description>
+  </video>
+
+  <video>
+	<name>Bonus: Constantine Full movie 2005 Latest YouTube addon from Cman Repository needed to play.</name>
+	<section>no</section>
+	<url>https://youtu.be/N2zDRzNN_xg?si=iTvh0-rYIwHIeLfo</url>
+	<icon>https://images4.alphacoders.com/793/793789.jpg</icon>
+	<fanart>https://images4.alphacoders.com/793/793789.jpg</fanart>
+	<description>Full length film on YouTube.</description>
+  </video>
+
+  <video>
+	<name>Bonus: DOUBLE FEATURE:Escape From NY (1981)Escape From LA (1996)[Full Movies] Action/Sci-Fi.</name>
+	<section>no</section>
+	<url>https://rumble.com/v5uffx2-escape-from-nyla.html</url>
+	<icon>https://artfiles.alphacoders.com/600/60063.jpg</icon>
+	<fanart>https://artfiles.alphacoders.com/600/60063.jpg</fanart>
+	<description>Full length films on Rumble.</description>
+  </video>
+
+  <video>
+	<name>DOUBLE FEATURE: EVIL DEAD1-2(1985/1987)[Full Movies] Horror/Action/Comedy/</name>
+	<section>no</section>
+	<url>https://rumble.com/v5k4i4d-double-feature-1-and-2-19851987-full-movies-horroractioncomedy-happyhallowe.html</url>
+	<icon>https://wall.alphacoders.com/big.php?i=326921</icon>
+	<fanart>https://wall.alphacoders.com/big.php?i=326921</fanart>
+	<description>Full length films on Rumble.</description>
+  </video>
+	
+  <video>
 	<name>ZMC'S NINJA Build Video by Tech Nick</name>
 	<section>no</section>
 	<url>https://rumble.com/v5udmu5-zmcs-ninja-kodi-build.html</url>
@@ -36,22 +72,4 @@
 	<description>Get the Terminator Fork.</description>
   </video>
 
-  <video>
-	<name>Bonus: Double Feature Dogma Full movie 1999/ Jay and Silent Bob Strike Back 2001.</name>
-	<section>no</section>
-	<url>https://rumble.com/v5ueo98-353403980.html</url>
-	<icon>https://images7.alphacoders.com/801/801448.jpg</icon>
-	<fanart>https://images7.alphacoders.com/801/801448.jpg</fanart>
-	<description>2 Full length films on Rumble</description>
-  </video>
-
-  <video>
-	<name>Bonus: Constantine Full movie 2005 Latest YouTube addon from Cman Repository needed to play.</name>
-	<section>no</section>
-	<url>https://youtu.be/N2zDRzNN_xg?si=iTvh0-rYIwHIeLfo</url>
-	<icon>https://images4.alphacoders.com/793/793789.jpg</icon>
-	<fanart>https://images4.alphacoders.com/793/793789.jpg</fanart>
-	<description>Full length film on YouTube.</description>
-  </video>
-  
 </videos>
