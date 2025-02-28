@@ -36,13 +36,4 @@
 	<description>ZMC StarWars Build</description>
 	<preview>https://rumble.com/v5r37dk-starwars-kodi-build.html</preview>
   </build>
-	<build>
-	<name>ZMC's Valentines Build</name>
-	<version>1.0</version>
-	<url>https://rb.gy/7a922n</url>
-	<icon>https://archive.org/download/default_202502/default.jpg</icon>
-	<fanart>https://archive.org/download/default_202502/default.jpg</fanart>
-	<description>ZMC's Valentines Build availablefor a short time</description>
-	<preview>https://rumble.com/v6g4yr4-zmcs-valentines-build.html</preview>
-  </build>
 </builds>
